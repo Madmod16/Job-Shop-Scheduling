@@ -1,0 +1,1 @@
+This project focuses on solving the Job Shop Scheduling problem using a Mixed-Integer Linear Programming (MILP) approach. The R programming language is employed, utilizing the "lpSolve API" library for optimization. The goal is to determine an optimized schedule for jobs across multiple machines, minimizing the overall makespan.
